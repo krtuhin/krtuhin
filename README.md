@@ -1,6 +1,6 @@
 [![MasterHead](https://cdn2.storyasset.link/5b5f17fa-504d-44fc-b50b-e8bd89916a98/p9-ms-ygkiiafcji.jpg)](https://krtuhin.io)
 <h1 align="center">Hi 👋, I'm Tuhin Mandal</h1>
-<h3 align="center">A Web Developer from India</h3>
+<h3 align="center">An Web Developer from India</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=krtuhin&label=Profile%20views&color=0e75b6&style=flat" alt="krtuhin" /> </p>
 
 <p align="left"> <a href="https://twitter.com/tuhin61234416" target="blank"><img src="https://img.shields.io/twitter/follow/tuhin61234416?logo=twitter&style=for-the-badge" alt="tuhin61234416" /></a> </p>
