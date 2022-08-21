@@ -1,6 +1,4 @@
 [![MasterHead](https://cdn2.storyasset.link/5b5f17fa-504d-44fc-b50b-e8bd89916a98/p9-ms-ygkiiafcji.jpg)](https://krtuhin.io)
-### Hi there 👋
-
 <h1 align="center">Hi 👋, I'm Tuhin Mandal</h1>
 <h3 align="center">A Web Developer from India</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=krtuhin&label=Profile%20views&color=0e75b6&style=flat" alt="krtuhin" /> </p>
