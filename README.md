@@ -1,7 +1,4 @@
-[![MasterHead](<picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
-
-<br><br>
-)](https://krtuhin.io)
+[![MasterHead]()](https://krtuhin.io)
 <h1 align="center">Hi 👋, I'm Tuhin Mandal</h1>
 <h3 align="center">I'm Tuhin, a Flutter Developer pursuing my B.Tech in the department of Information Technology.</h3>
 
