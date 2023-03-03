@@ -1,13 +1,5 @@
 <h1 align="center"><img align="center" src="https://user-images.githubusercontent.com/111662431/222829183-9b5b54ff-e970-4928-b519-47f1e05aa422.gif?raw=true" width = 300px></h1>
 
-
-![GitHub_ReadMe](https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif)
-
-
-
-
-
-
 <h1 align="center">Hi 👋, I'm Tuhin Mandal</h1>
 <h3 align="center">I'm Tuhin, a Flutter Developer pursuing my B.Tech in the department of Information Technology.</h3>
 
