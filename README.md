@@ -1,9 +1,9 @@
 <h1 align="center"><img align="center" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 300px></h1>
 
 
+![GitHub_ReadMe](https://user-images.githubusercontent.com/111662431/222829183-9b5b54ff-e970-4928-b519-47f1e05aa422.gif)
 
 
-https://user-images.githubusercontent.com/111662431/222828287-11eb8a5f-7f55-47c1-bf86-5df80232b4c6.gif
 
 
 
