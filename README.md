@@ -1,7 +1,7 @@
 <h1 align="center"><img align="center" src="https://user-images.githubusercontent.com/111662431/222835577-ca550705-2ddd-4784-abd9-e1099d611398.gif?raw=true" ></h1>
 
-<h1 align="center">Hi 👋, I'm Tuhin Mandal</h1>
-<h3 align="center">I'm Tuhin, a Flutter Developer pursuing my B.Tech in the department of Information Technology.</h3>
+
+<h3 align="center">I'm Tuhin Mandal, a Flutter Developer pursuing my B.Tech in the department of Information Technology.</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=krtuhin&label=Profile%20views&color=0e75b6&style=flat" alt="krtuhin" /> </p>
 
