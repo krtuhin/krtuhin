@@ -1,16 +1,11 @@
-<h1 align="center"><img align="center" src="https://user-images.githubusercontent.com/111662431/222834463-27e36542-bae6-4390-8fd9-4026cf10a1a5.gif?raw=true" ></h1>
-
-
-
-
-
+<h1 align="center"><img align="center" src="https://user-images.githubusercontent.com/111662431/222835577-ca550705-2ddd-4784-abd9-e1099d611398.gif?raw=true" ></h1>
 
 <h1 align="center">Hi 👋, I'm Tuhin Mandal</h1>
 <h3 align="center">I'm Tuhin, a Flutter Developer pursuing my B.Tech in the department of Information Technology.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=krtuhin&label=Profile%20views&color=0e75b6&style=flat" alt="krtuhin" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=krtuhin&label=Profile%20views&color=0e75b6&style=flat" alt="krtuhin" /> </p>
 
-<p align="left"> <a href="https://twitter.com/iamtuhinkr" target="blank"><img src="https://img.shields.io/twitter/follow/iamtuhinkr?logo=twitter&style=for-the-badge" alt="iamtuhinkr" /></a> </p>
+<p align="center"> <a href="https://twitter.com/iamtuhinkr" target="blank"><img src="https://img.shields.io/twitter/follow/iamtuhinkr?logo=twitter&style=for-the-badge" alt="iamtuhinkr" /></a> </p>
 
 - 🌱 I’m currently learning **Flutter**
 
