@@ -7,12 +7,6 @@
 
 <p align="center"> <a href="https://twitter.com/iamtuhinkr" target="blank"><img src="https://img.shields.io/twitter/follow/iamtuhinkr?logo=twitter&style=for-the-badge" alt="iamtuhinkr" /></a> </p>
 
-- 🌱 I’m currently learning **Flutter**
-
-- 💬 Ask me about **Dart, Java, Flutter, HTML, CSS.**
-
-- 📫 How to reach me **tuhin.km2774@gmail.com**
-
 <h3 align="center">CONNECT WITH ME</h3>
 <p align="center">
 <a href="https://twitter.com/iamtuhinkr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="iamtuhinkr" height="30" width="40" /></a>
@@ -26,6 +20,3 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=krtuhin&show_icons=true&locale=en&layout=compact" alt="krtuhin" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=krtuhin&show_icons=true&locale=en" alt="krtuhin" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=krtuhin&" alt="krtuhin" /></p>
-
