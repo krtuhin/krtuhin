@@ -2,7 +2,7 @@
 
 
 
-<h3 align="center">I'm Tuhin Mandal, a Flutter Developer pursuing my B.Tech in the department of Information Technology.</h3>
+<h3 align="center">I'm Tuhin Mandal, a passionate Java Developer(Learning) pursuing my B.Tech in the department of Information Technology.</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=krtuhin&label=Profile%20views&color=0e75b6&style=flat" alt="krtuhin" /> </p>
 
