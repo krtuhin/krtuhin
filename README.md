@@ -15,8 +15,51 @@
 <a href="https://www.leetcode.com/tuhin_kr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="tuhin_kr" height="30" width="40" /></a>
 </p>
 
-<h3 align="center">LANGUAGES & TOOLS</h3>
-<p align="center"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> </p>
+----------------------------------------
+<!-- <h3 align="center">LANGUAGES & TOOLS</h3>
+<p align="center"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> </p> -->
+
+
+<h1 align="center">TECHNOLOGIES</h1> 
+
+```mermaid
+flowchart 
+fw1((Front End))
+f1[HTML]
+f2[CSS]
+f3[JavaScript]
+fw2((Bootstrap))
+fw3((Materialize))
+b1{Java}
+b2{Hibernate}
+b3{Spring}
+ subgraph  BackEnd
+b1
+end 
+subgraph Framework
+b2
+b3
+ end  
+ subgraph Framworks 
+fw2
+fw3
+ end
+  subgraph  FrontEnd 
+ fw1
+ f1
+ f2
+ f3
+ end  
+ 
+ fw1 --o f1
+ fw1 --o f2
+ fw1 --o f3
+ f2 --> fw2
+ f2 --> fw3
+ b1 -->b2
+ b1 --> b3
+ ```
+
 
 <!-- <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=krtuhin&show_icons=true&locale=en&layout=compact" alt="krtuhin" /></p> -->
 
@@ -38,7 +81,7 @@
 <!-- <p align="center">
 <a href="https://github.com/krtuhin" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=krtuhin&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 </p> -->
-
+---------------------------------
 <!-- start -->
 <table align="center">
 <tr border="none">
@@ -97,44 +140,3 @@
 </p>
 
 
-
-
-## Technologies 
-
-```mermaid
-flowchart 
-fw1((Front End))
-f1[HTML]
-f2[CSS]
-f3[JavaScript]
-fw2((Bootstrap))
-fw3((Materialize))
-b1{Java}
-b2{Hibernate}
-b3{Spring}
- subgraph  BackEnd
-b1
-end 
-subgraph Framework
-b2
-b3
- end  
- subgraph Framworks 
-fw2
-fw3
- end
-  subgraph  FrontEnd 
- fw1
- f1
- f2
- f3
- end  
- 
- fw1 --o f1
- fw1 --o f2
- fw1 --o f3
- f2 --> fw2
- f2 --> fw3
- b1 -->b2
- b1 --> b3
- ```
