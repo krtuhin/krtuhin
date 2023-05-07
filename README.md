@@ -122,10 +122,12 @@ fw2
 fw3
  end
   subgraph  FrontEnd 
+ fw1
  f1
  f2
  f3
  end  
+ 
  fw1 --o f1
  fw1 --o f2
  fw1 --o f3
