@@ -71,7 +71,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=krtuhin&repo=TechBlog&theme=tokyonight" />
 </a>
   
-<br>
+
   
 <a href="https://github.com/krtuhin/Chat-App">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=krtuhin&repo=Chat-App&theme=tokyonight" />
