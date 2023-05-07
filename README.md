@@ -64,17 +64,30 @@
 </p>
 
 
-<h3>My Projects :~</h3>
+<h3 align="center"><u>MY PROJECTS</u></h3>
 
 <p align="center">
 <a href="https://github.com/krtuhin/TechBlog">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=krtuhin&repo=TechBlog&theme=tokyonight" />
 </a>
   
-
+<br>
+<br>
   
 <a href="https://github.com/krtuhin/Chat-App">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=krtuhin&repo=Chat-App&theme=tokyonight" />
+</a>
+  
+<br>
+  
+<a href="https://github.com/krtuhin/AI-ChatBot">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=krtuhin&repo=AI-ChatBot&theme=tokyonight" />
+</a>
+  
+<br>
+  
+<a href="https://github.com/krtuhin/Snake-Game">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=krtuhin&repo=Snake-Game&theme=tokyonight" />
 </a>
   
 </p>
