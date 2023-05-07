@@ -103,19 +103,15 @@
 
 ```mermaid
 flowchart 
-f1[HTML]
-f2[Css]
-f3[javaScpit]
-f4[Markdown]
-fw1((ReactJs))
-fw2((NextJs))
-fw3((Bootstrap))
-fw4((tailwind))
-fw5((Scss))
-fw6((mermaid))
-b1{NodeJs}
-b2{RestAPIs}
-b3{PHP}
+fw1((Front End))
+f2[HTML]
+f3[CSS]
+f4[JavaScript]
+fw2((Bootstrap))
+fw3((Materialize))
+b1{Java}
+b2{Hibernate}
+b3{Spring}
  subgraph  BackEnd
 b1
 b2
@@ -138,12 +134,9 @@ fw6
  f1 --o f2
  f1 --o f3
  f1 --o f4
- f2 --> fw3
- f2 --> fw4
- f2 --> fw5
- f3 --o fw1
- f3 --o fw2
- fw2 --o b1
- f4 --> fw6
- b1 --o b2
+ f3 --> fw2
+ f3 --> fw3
+ 
+ b1 -->b2
+ b1 --> b3
  ```
