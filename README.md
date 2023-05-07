@@ -104,9 +104,9 @@
 ```mermaid
 flowchart 
 fw1((Front End))
-f2[HTML]
-f3[CSS]
-f4[JavaScript]
+f1[HTML]
+f2[CSS]
+f3[JavaScript]
 fw2((Bootstrap))
 fw3((Materialize))
 b1{Java}
@@ -118,25 +118,19 @@ b2
 b3
  end  
  subgraph Framworks 
-fw1
 fw2
 fw3
-fw4
-fw5
-fw6
  end
   subgraph  FrontEnd 
  f1
  f2
  f3
- f4
  end  
- f1 --o f2
- f1 --o f3
- f1 --o f4
- f3 --> fw2
- f3 --> fw3
- 
+ fw1 --o f1
+ fw1 --o f2
+ fw1 --o f3
+ f2 --> fw2
+ f2 --> fw3
  b1 -->b2
  b1 --> b3
  ```
