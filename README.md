@@ -2,7 +2,14 @@
 <h1 align="center"><img align="center" src="https://user-images.githubusercontent.com/111662431/222835577-ca550705-2ddd-4784-abd9-e1099d611398.gif?raw=true" ></h1>
 
 <!-- intro -->
+
+
+<p align="right">
+          <img align="right" width=300px alt="Unicorn" src="https://c.tenor.com/GN73MKBawZYAAAAi/busy-cute.gif" />
+
+</p>
 <table align="center">
+   
    <tr border="none">
      <td width="60%" align="center">
        <h3 align="center">I'm Tuhin Mandal, a passionate Java Developer(Learning) pursuing my B.Tech in the department of Information Technology.</h3>
@@ -10,7 +17,6 @@
    </tr>
    <tr border="none">
       <td width="40%" align="center">
-          <img align="right" width=300px alt="Unicorn" src="https://c.tenor.com/GN73MKBawZYAAAAi/busy-cute.gif" />
       </td>
     </tr>
 </table>
@@ -76,6 +82,11 @@ fw3
  b1 -->b2
  b1 --> b3
  ```
+
+
+---------
+<br>
+<br>
 
 
 <!-- staer projects -->
