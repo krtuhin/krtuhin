@@ -19,6 +19,9 @@
 <a href="https://www.leetcode.com/tuhin_kr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="tuhin_kr" height="30" width="40" /></a>
 </h3>
 
+<br>
+<br>
+<br>
 
 
 <!-- <h3 align="center">LANGUAGES & TOOLS</h3>
@@ -70,7 +73,7 @@ fw3
  ```
 
 
----------
+---------------------------------
 <br>
 
 
