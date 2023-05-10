@@ -3,25 +3,9 @@
 
 <!-- intro -->
 
-
-<p align="right">
-          <img align="right" width=300px alt="Unicorn" src="https://c.tenor.com/GN73MKBawZYAAAAi/busy-cute.gif" />
-
-</p>
-<table align="center">
-   
-   <tr border="none">
-     <td width="60%" align="center">
-       <h3 align="center">I'm Tuhin Mandal, a passionate Java Developer(Learning) pursuing my B.Tech in the department of Information Technology.</h3>
-     </td>
-   </tr>
-   <tr border="none">
-      <td width="40%" align="center">
-      </td>
-    </tr>
-</table>
-
-
+<img align="right" width=300px alt="Unicorn" src="https://c.tenor.com/GN73MKBawZYAAAAi/busy-cute.gif" />
+<h3 align="center">I'm Tuhin Mandal, a passionate Java Developer(Learning) pursuing my B.Tech in the department of Information Technology.</h3>
+ 
 <!-- end intro -->
 
 
