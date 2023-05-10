@@ -16,6 +16,9 @@
 
 <br>
 <br>
+<br>
+<br>
+
 <h3>CONNECT WITH ME :~ 
 <a href="https://twitter.com/iamtuhinkr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="iamtuhinkr" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/krtuhin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="krtuhin" height="30" width="40" /></a>
@@ -78,7 +81,6 @@ fw3
 
 
 ---------------------------------
-<br>
 
 
 <!-- staer projects -->
