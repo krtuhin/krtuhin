@@ -88,6 +88,14 @@ fw3
 <h1 align="center">MY PROJECTS</h1>
 
 <p align="center">
+<a href="https://github.com/krtuhin/E-Mart">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=krtuhin&repo=E-Mart&theme=tokyonight" />
+</a>
+  
+<br>
+<br>
+
+<p align="center">
 <a href="https://github.com/krtuhin/TechBlog">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=krtuhin&repo=TechBlog&theme=tokyonight" />
 </a>
@@ -139,8 +147,8 @@ fw3
 
 <!-- end..... -->
 
-<p align="center">
+<!-- <p align="center">
 <a href="http://www.github.com/krtuhin"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=krtuhin&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
-</p>
+</p> -->
 
 
