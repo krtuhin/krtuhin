@@ -2,9 +2,25 @@
 <h1 align="center"><img align="center" src="https://user-images.githubusercontent.com/111662431/222835577-ca550705-2ddd-4784-abd9-e1099d611398.gif?raw=true" ></h1>
 
 <!-- intro -->
+<table align="center">
+ 
+<tr border="none">
+ 
+<td width="75%" align="center">
 
-<img align="right" width=300px alt="Unicorn" src="https://c.tenor.com/GN73MKBawZYAAAAi/busy-cute.gif" />
-<h4 align="justify">Hello Everyone!! I'm Tuhin Mandal, a passionate Java Developer(Learning) pursuing my B.Tech in the department of Information Technology.</h4>
+<h4 align="justify"> Hello Everyone..! I'm Tuhin Kr. Mandal is an IT engineering student and passionate Java enthusiast. Proficient in Spring Boot, Spring MVC, Spring, Hibernate, J2EE, Flutter Development, Data Structures & Algorithms. Adept at crafting solutions using Java and backend systems. Eager to contribute expertise and drive technological advancements. Seeking opportunities... </h4>
+ 
+</td>
+
+<td width="25%" align="center">
+
+<img align="center" width=220px alt="Unicorn" src="https://c.tenor.com/GN73MKBawZYAAAAi/busy-cute.gif" />
+
+</td>
+  
+</tr>
+
+</table>
  
 <!-- end intro -->
 
@@ -16,19 +32,14 @@
 
 <br>
 <br>
-<br>
-<br>
 
-<h3>CONNECT WITH ME :~ 
-<a href="https://twitter.com/iamtuhinkr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="iamtuhinkr" height="30" width="40" /></a>
+
+<!-- <h3>CONNECT WITH ME :~ </h3> -->
+<!-- <a href="https://twitter.com/iamtuhinkr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="iamtuhinkr" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/krtuhin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="krtuhin" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/tuhin_kr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="tuhin_kr" height="30" width="40" /></a>
-</h3>
+<a href="https://www.leetcode.com/tuhin_kr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="tuhin_kr" height="30" width="40" /></a> -->
 
-<br>
-<br>
-<br>
-<br>
+
 <br>
 
 <!-- <h3 align="center">LANGUAGES & TOOLS</h3>
@@ -39,46 +50,6 @@
 
 <!-- start Technologies -->
 
-<h1 align="center">TECHNOLOGIES</h1> 
-
-```mermaid
-flowchart 
-fw1((Front End))
-f1[HTML]
-f2[CSS]
-f3[JavaScript]
-fw2((Bootstrap))
-fw3((Materialize))
-b1{Java}
-b2{Hibernate}
-b3{Spring}
- subgraph  BackEnd
-b1
-end 
-subgraph Framework
-b2
-b3
- end  
- subgraph Framworks 
-fw2
-fw3
- end
-  subgraph  FrontEnd 
- fw1
- f1
- f2
- f3
- end  
- 
- fw1 --o f1
- fw1 --o f2
- fw1 --o f3
- f2 --> fw2
- f2 --> fw3
- b1 -->b2
- b1 --> b3
- ```
-
 
 ---------------------------------
 
@@ -88,6 +59,14 @@ fw3
 <h1 align="center">MY PROJECTS</h1>
 
 <p align="center">
+ 
+ <a href="https://github.com/krtuhin/Smart-Contact-Manager-Spring-Boot">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=krtuhin&repo=Smart-Contact-Manager-Spring-Boot&theme=tokyonight" />
+</a>
+  
+<br>
+<br>
+
 <a href="https://github.com/krtuhin/E-Mart">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=krtuhin&repo=E-Mart&theme=tokyonight" />
 </a>
@@ -95,7 +74,6 @@ fw3
 <br>
 <br>
 
-<p align="center">
 <a href="https://github.com/krtuhin/TechBlog">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=krtuhin&repo=TechBlog&theme=tokyonight" />
 </a>
