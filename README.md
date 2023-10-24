@@ -1,5 +1,5 @@
 <!-- welcome gif -->
-<h1 align="center"><img align="center" src="https://user-images.githubusercontent.com/111662431/222835577-ca550705-2ddd-4784-abd9-e1099d611398.gif?raw=true" ></h1>
+<h1 align="center"><img align="center" src="https://user-images.githubusercontent.com/111662431/222835577-ca550705-2ddd-4784-abd9-e1099d611398.gif" ></h1>
 
 <!-- intro -->
 <table align="center">
