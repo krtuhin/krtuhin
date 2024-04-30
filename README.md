@@ -57,8 +57,12 @@
 
 <p align="center">
  
- <a href="https://github.com/krtuhin/Smart-Contact-Manager-Spring-Boot">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=krtuhin&repo=Smart-Contact-Manager-Spring-Boot&theme=tokyonight" />
+<a href="https://github.com/krtuhin/Thought-Canvas-Backend">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=krtuhin&repo=Thought-Canvas-Backend&theme=tokyonight" />
+</a>
+
+<a href="https://github.com/krtuhin/Smart-Contact-Manager">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=krtuhin&repo=Smart-Contact-Manager&theme=tokyonight" />
 </a>
   
 <br>
@@ -67,9 +71,6 @@
 <a href="https://github.com/krtuhin/E-Mart">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=krtuhin&repo=E-Mart&theme=tokyonight" />
 </a>
-  
-<br>
-<br>
 
 <a href="https://github.com/krtuhin/TechBlog">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=krtuhin&repo=TechBlog&theme=tokyonight" />
@@ -78,13 +79,30 @@
 <br>
 <br>
   
+<!--<a href="https://github.com/krtuhin/Chat-App">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=krtuhin&repo=Chat-App&theme=tokyonight" />
+</a>-->
+<a href="https://github.com/krtuhin/Film-Folio">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=krtuhin&repo=Film-Folio&theme=tokyonight" />
+</a>
+
+<br>
+<br>
+
+<a href="https://github.com/krtuhin/Light-Box_Plugin">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=krtuhin&repo=Light-Box_Plugin&theme=tokyonight" />
+</a>
+<a href="https://github.com/krtuhin/Small-Projects_JS-Basics">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=krtuhin&repo=Small-Projects_JS-Basics&theme=tokyonight" />
+</a>
+
+<br>
+<br>
+
 <a href="https://github.com/krtuhin/Chat-App">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=krtuhin&repo=Chat-App&theme=tokyonight" />
 </a>
-  
-<br>
-<br>
-  
+
 <a href="https://github.com/krtuhin/AI-ChatBot">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=krtuhin&repo=AI-ChatBot&theme=tokyonight" />
 </a>
