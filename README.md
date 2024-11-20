@@ -5,13 +5,34 @@
 <table align="center">
  
 <tr border="none">
- 
-<td width="75%" align="center">
 
-<h4 align="justify"> Hello Everyone..! I'm Tuhin Kr. Mandal is an IT engineering student and passionate Java enthusiast. Proficient in Spring Boot, Spring MVC, Spring, Hibernate, J2EE, Flutter Development, Data Structures & Algorithms. Adept at crafting solutions using Java and backend systems. Eager to contribute expertise and drive technological advancements. Seeking opportunities... </h4>
+<!-- bio -->
+<td width="75%" align="justify">
+
+<h4>👋 Welcome to my GitHub!</h4>
+
+<p>
+I’m a passionate software developer with expertise in <b>Java, Spring Boot, React.js, and full-stack development.</b> With 3 years of experience in building efficient and scalable solutions, I enjoy tackling complex problems and creating innovative applications.  
+
+💻 **What I do:**  
+- Build scalable backend systems and APIs  
+- Create responsive and user-friendly frontends  
+- Explore and implement efficient coding practices  
+
+🚀 **On this GitHub, you’ll find:**  
+- Projects showcasing my skills in full-stack development
+<!-- - Contributions to open-source projects -->
+- Experimentation with new technologies
+
+🤝 **Let’s collaborate!**  
+I’m always open to working on exciting projects and contributing to impactful ideas. Feel free to connect or drop me a message if you’d like to collaborate.  
+
+🌟 **Let’s code something amazing together!**
+</p>
  
 </td>
 
+<!-- GIF -->
 <td width="25%" align="center">
 
 <img align="center" width=220px alt="Unicorn" src="https://c.tenor.com/GN73MKBawZYAAAAi/busy-cute.gif" />
@@ -26,12 +47,6 @@
 <br>
 
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
-
-<!-- <h3>CONNECT WITH ME :~ </h3> -->
-<!-- <a href="https://twitter.com/iamtuhinkr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="iamtuhinkr" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/krtuhin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="krtuhin" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/tuhin_kr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="tuhin_kr" height="30" width="40" /></a> -->
-
 
 <br>
 
@@ -132,9 +147,3 @@
 </table>
 
 <!-- end..... -->
-
-<!-- <p align="center">
-<a href="http://www.github.com/krtuhin"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=krtuhin&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
-</p> -->
-
-
